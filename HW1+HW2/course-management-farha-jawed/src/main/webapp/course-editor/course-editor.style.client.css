@@ -1,0 +1,85 @@
+body{
+    background-color: #36465d;
+    padding-top: 60px;
+}
+
+.navbar-brand{
+    color:whitesmoke !important;
+}
+
+.navbar{
+    background: #36465e;
+}
+
+.close-editor{
+    font-size: 25px;
+    color: whitesmoke;
+}
+
+.course-editor-nav .nav-item .nav-link{
+    color: beige !important;
+}
+
+.course-editor-nav .nav-item{
+    margin-right: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.course-editor-nav .nav-item.active{
+    background-color: rgba(0,0,0,.13);
+    border-radius: 5px;
+}
+
+.module-list{
+    background: rgba(0,0,0,.3);
+}
+
+
+.topic-list{
+    background-color: gainsboro;
+    padding:30px;
+}
+
+.module-list-pill{
+    margin-top: 25px;
+    margin-bottom: 20px;
+    margin-left:5px;
+}
+
+.module-list-pill .nav-link{
+    background-color: rgba(0,0,0,.3);
+    color:whitesmoke;
+}
+
+.module-list-pill .nav-link.active, .topic-pill-list .nav-link.active{
+    background-color:#56bc8a;
+}
+
+.topic-pill-list .nav-link{
+    background-color: rgba(0,0,0,.18);
+    color: black;
+}
+
+.heading-widget{
+    border:1px solid gray;
+    border-radius: 5px;
+    padding:10px;
+    margin:1px;
+}
+
+.widget-name{
+    font-weight: bold;
+    font-size:22px;
+}
+
+.preview{
+    color: #36465d;
+    font-size:20px;
+    font-weight: bold;
+}
+
+.new-widget-btn{
+    margin-right: 30px;
+}
+
