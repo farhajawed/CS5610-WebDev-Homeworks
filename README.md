@@ -1,23 +1,47 @@
-# Project: Course Management System   
+# Project: Building Whiteboard - A Course Management System   
 ## Homework1:       
-#### User Interface Design:          
-#### Laying out and styling responsive Webpages with HTML, CSS, and Bootstrap   
-![alt text](https://user-images.githubusercontent.com/30298841/60394421-e8271680-9ad8-11e9-9afb-86f9c0daa86f.png)  Click to view: [Course Management Client](https://course-management-farha-jawed.herokuapp.com/)
+**User Interface Design:**         
+**Laying out and styling responsive Webpages with HTML, CSS, and Bootstrap**   
+![alt text](https://user-images.githubusercontent.com/30298841/60394446-523fbb80-9ad9-11e9-9dfb-371a96919e94.png) [Course Management Client](https://course-management-farha-jawed.herokuapp.com/)
 
-    
-    
-HW2:  https://course-management-farha-jawed.herokuapp.com/admin/user-admin.template.client.html
-HW3: : https://coursemanager-farha-jawed.herokuapp.com/
-HW4: https://lms-farha-jawed.herokuapp.com/
-HW5:  
-SERVER:https://lms-farha-session-server.herokuapp.com/
-CLIENT:https://lms-farha-session.herokuapp.com/
-HW6:https://lms-farha-jawed-fall18-client.herokuapp.com/
 
-    https://lms-farha-jawed-fall18-server.herokuapp.com/
+## Homework2:       
+**Browser the Programming:**         
+**Programming interactive Webpages with JavaScript and jQuery**   
+![alt text](https://user-images.githubusercontent.com/30298841/60394446-523fbb80-9ad9-11e9-9dfb-371a96919e94.png) [Course Management Client](https://course-management-farha-jawed.herokuapp.com/admin/user-admin.template.client.html)
 
-HW7: Heroku server link: https://lms-farha-jawed-fall18-server.herokuapp.com/
+## Homework3:       
+**Single Page Applications:**         
+**Rendering dynamic Webpages with React**   
+![alt text](https://user-images.githubusercontent.com/30298841/60394446-523fbb80-9ad9-11e9-9dfb-371a96919e94.png) [Course Management Client](https://coursemanager-farha-jawed.herokuapp.com/)
 
-Heroku client link: https://whiteboard-student-farha.herokuapp.com/course
 
-HW8:https://whiteboard-mongo-farha.herokuapp.com/
+## Homework4:       
+**Single Page Application State:**         
+**Maintaining State in React Applications with Redux**   
+![alt text](https://user-images.githubusercontent.com/30298841/60394446-523fbb80-9ad9-11e9-9dfb-371a96919e94.png) [Course Management Client](https://lms-farha-jawed.herokuapp.com/)
+
+## Homework5:       
+**Web Services and Server State:**         
+**Accessing Server Data and Maintaining Server State**   
+![alt text](https://user-images.githubusercontent.com/30298841/60394446-523fbb80-9ad9-11e9-9dfb-371a96919e94.png) [Course Management Client](https://lms-farha-session.herokuapp.com/)  
+![alt text](https://user-images.githubusercontent.com/30298841/60394446-523fbb80-9ad9-11e9-9dfb-371a96919e94.png) [Course Management Server](https://lms-farha-session-server.herokuapp.com/)
+
+## Homework6:       
+**Persisting Data in Relational Databases:**         
+**Java Persistence API**   
+![alt text](https://user-images.githubusercontent.com/30298841/60394446-523fbb80-9ad9-11e9-9dfb-371a96919e94.png) [Course Management Client](https://lms-farha-jawed-fall18-client.herokuapp.com/)  
+![alt text](https://user-images.githubusercontent.com/30298841/60394446-523fbb80-9ad9-11e9-9dfb-371a96919e94.png) [Course Management Server](https://lms-farha-jawed-fall18-server.herokuapp.com/)
+
+## Homework7:       
+**Angular WhiteBoard Client:**         
+**The Student Side of WhiteBoard**   
+![alt text](https://user-images.githubusercontent.com/30298841/60394446-523fbb80-9ad9-11e9-9dfb-371a96919e94.png)  [Course Management Client](https://whiteboard-student-farha.herokuapp.com/course)  
+![alt text](https://user-images.githubusercontent.com/30298841/60394446-523fbb80-9ad9-11e9-9dfb-371a96919e94.png) [Course Management Server](https://lms-farha-jawed-fall18-server.herokuapp.com/)
+
+## Homework8:       
+**MongoDB:**         
+**Mongoose.js to connect to a database called white-board**  
+![alt text](https://user-images.githubusercontent.com/30298841/60394446-523fbb80-9ad9-11e9-9dfb-371a96919e94.png) [Course Management Server](https://whiteboard-mongo-farha.herokuapp.com/)
+
+
