@@ -2,7 +2,7 @@
 ## Homework1:       
 #### User Interface Design:          
 #### Laying out and styling responsive Webpages with HTML, CSS, and Bootstrap   
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")  Click to view: [Course Management Client](https://course-management-farha-jawed.herokuapp.com/)
+![alt text](https://user-images.githubusercontent.com/30298841/60394421-e8271680-9ad8-11e9-9afb-86f9c0daa86f.png)  Click to view: [Course Management Client](https://course-management-farha-jawed.herokuapp.com/)
 
     
     
