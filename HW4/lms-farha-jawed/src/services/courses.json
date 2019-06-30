@@ -1,0 +1,300 @@
+[
+    {
+      "id": "123",
+      "title": "CS5610",
+      "modules": [
+        {
+          "id":"1",
+          "title": "Week 1",
+          "lessons": [
+            {
+              "id":"2",
+              "title": "HTML",
+              "topics": [
+                {
+                  "id":"3",
+                  "title": "DOM",
+                  "widgets": [
+                      {
+                          "id": "456",
+                          "type": "LIST",
+                          "listType": "ol",
+                          "options": "option 1\noption 2\noption 3"
+                      },
+                      {
+                          "id": "123",
+                          "type": "HEADING",
+                          "size": "2",
+                          "header": "Heading 1",
+                          "name": "Test Name"
+                      },
+                      {
+                          "id": "234",
+                          "type": "PARAGRAPH",
+                          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                      },
+                      {
+                          "id": "345",
+                          "type": "IMAGE",
+                          "src": "http://www.africansunsand.com/images/pc1.jpg"
+                      },
+                      {
+                        "id": "395",
+                        "type": "LINK",
+                        "href": "https://www.youtube.com/user/BuzzFeedVideo",
+                        "title": "Link text"
+                    }
+                  ]
+                },
+                {
+                  "id":"4",
+                  "title": "Tags",
+                  "widgets": [
+                    {
+                        "id": "9123",
+                        "type": "HEADING",
+                        "size": "3",
+                        "header": "Heading 1",
+                        "name": "Test Name"
+                    },
+                    {
+                        "id": "9234",
+                        "type": "PARAGRAPH",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    },
+                    {
+                        "id": "9345",
+                        "type": "IMAGE",
+                        "src": "https://images.unsplash.com/photo-1519682577862-22b62b24e493?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=50bafcbaafd59e2cd7bd4f4b9da67a43"
+                    },
+                    {
+                      "id": "9395",
+                      "type": "LINK",
+                      "href": "https://www.youtube.com/user/BuzzFeedVideo",
+                      "title": "Buzz feed"
+                  }
+                ]
+                },
+                {
+                  "id":"5",
+                  "title": "Attributes",
+                  "widgets": [
+                    {
+                      "id": "95",
+                      "type": "LINK",
+                      "href": "https://www.youtube.com/user/BuzzFeedVideo",
+                      "title": "Click me!"
+                   }
+                  ]
+                }
+              ]
+            },
+            {
+              "id":"6",
+              "title": "CSS",
+              "topics": [
+                {
+                  "id":"93",
+                  "title": "Advanced",
+                  "widgets": [
+                    {
+                      "id": "1395",
+                      "type": "LINK",
+                      "href": "https://www.youtube.com/user/BuzzFeedVideo",
+                      "title": "Buzz feed"
+                  }
+                ]
+                },
+                {
+                  "id":"64",
+                  "title": "Responsive",
+                  "widgets": []
+                },
+                {
+                  "id":"35",
+                  "title": "Grid",
+                  "widgets": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":"7",
+          "title": "Week 2",
+          "lessons": [
+            {
+              "id":"8",
+              "title": "JavaScript",
+              "topics": [
+                {
+                  "id":"9",
+                  "title": "Basic",
+                  "widgets": [
+                    {
+                        "id": "4345",
+                        "type": "IMAGE",
+                        "src": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=672eb03fafd069bd5f8a81602b54a3d3"
+                    },
+                    {
+                      "id": "4395",
+                      "type": "LINK",
+                      "href": "https://www.youtube.com/user/BuzzFeedVideo",
+                      "title": "Buzz feed"
+                   },
+                   {
+                    "id": "4234",
+                    "type": "PARAGRAPH",
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                   }
+                ]
+                },
+                {
+                  "id":"10",
+                  "title": "Forms",
+                  "widgets": []
+                },
+                {
+                  "id":"11",
+                  "title": "Objects",
+                  "widgets": []
+                }
+              ]
+            },
+            {
+              "id":"12",
+              "title": "jQuery",
+              "topics": [
+                {
+                  "id":"893",
+                  "title": "Animation",
+                  "widgets": []
+                },
+                {
+                  "id":"564",
+                  "title": "AJAX",
+                  "widgets": []
+                },
+                {
+                  "id":"095",
+                  "title": "Misc",
+                  "widgets": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+        "id": "234",
+        "title": "CS5200",
+        "modules": [
+          {
+            "id":"13",
+            "title": "Week 1",
+            "lessons": [
+              {
+                "id":"14",
+                "title": "Data Definition",
+                "topics": [
+                  {
+                    "id":"15",
+                    "title": "DD1",
+                    "widgets": []
+                  },
+                  {
+                    "id":"16",
+                    "title": "DD2",
+                    "widgets": []
+                  },
+                  {
+                    "id":"17",
+                    "title": "DD3",
+                    "widgets": []
+                  }
+                ]
+              },
+              {
+                "id":"18",
+                "title": "Data Modeling",
+                "topics": [
+                  {
+                    "id":"157",
+                    "title": "DM1",
+                    "widgets": []
+                  },
+                  {
+                    "id":"178876",
+                    "title": "DM2",
+                    "widgets": []
+                  },
+                  {
+                    "id":"1UY7",
+                    "title": "DM3",
+                    "widgets": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id":"19",
+            "title": "Week 2",
+            "lessons": [
+              {
+                "id":"814",
+                "title": "Programming",
+                "topics": [
+                  {
+                    "id":"715",
+                    "title": "JDBC",
+                    "widgets": [
+                      {
+                          "id": "8456",
+                          "type": "LIST",
+                          "listType": "ul",
+                          "options": "Good \nBetter \nBest"
+                      },
+                      {
+                          "id": "1123",
+                          "type": "HEADING",
+                          "size": "3",
+                          "header": "Heading 1",
+                          "name": "Test Name"
+                      },
+                      {
+                          "id": "1234",
+                          "type": "PARAGRAPH",
+                          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                      },
+                      {
+                          "id": "1345",
+                          "type": "IMAGE",
+                          "src": "https://images.unsplash.com/photo-1519682577862-22b62b24e493?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=50bafcbaafd59e2cd7bd4f4b9da67a43"
+                      },
+                      {
+                        "id": "1395",
+                        "type": "LINK",
+                        "href": "https://www.youtube.com/user/BuzzFeedVideo",
+                        "title": "Buzz feed"
+                    }
+                  ]
+                  },
+                  {
+                    "id":"616",
+                    "title": "DAO",
+                    "widgets": []
+                  },
+                  {
+                    "id":"517",
+                    "title": "SQL",
+                    "widgets": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+  ]

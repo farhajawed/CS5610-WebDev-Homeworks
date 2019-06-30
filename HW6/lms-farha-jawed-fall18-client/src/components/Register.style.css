@@ -1,0 +1,19 @@
+.register{
+    background-color: #36465d;
+    color:beige;
+}
+
+.signup-form{
+    background-color: rgba(0,0,0,.13);
+    padding:30px;
+    border-radius:10px;
+}
+
+.signup-misc-links a{
+    color:beige;
+}
+
+.signup-misc-links a:hover{
+    text-decoration: none;
+    color:ghostwhite;
+}

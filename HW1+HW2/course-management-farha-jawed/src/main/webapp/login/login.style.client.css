@@ -1,0 +1,19 @@
+body{
+    background-color: #36465d;
+    color:beige;
+}
+
+.login-form{
+    background-color: rgba(0,0,0,.13);
+    padding:30px;
+    border-radius:10px;
+}
+
+.login-misc-links a{
+     color:beige;
+}
+
+.login-misc-links a:hover{
+    text-decoration: none;
+    color:ghostwhite;
+}

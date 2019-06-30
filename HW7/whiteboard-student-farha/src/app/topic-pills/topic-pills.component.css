@@ -1,0 +1,8 @@
+.topic-pill-list .nav-link{
+  background-color: rgba(0,0,0,.18);
+  color: white;
+}
+.topic-pill-list .nav-link.active{
+  background-color:#56bc8a;
+}
+

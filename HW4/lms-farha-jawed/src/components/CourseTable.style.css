@@ -1,0 +1,132 @@
+body{
+    background-color: gainsboro;
+}
+
+.custom-form input[type="text"]{
+    width:240px !important;
+    margin-right: 5px
+}
+
+.new-course-btn{
+    border-radius:50% !important;
+    background-color: #ff5252;
+    border: none;
+}
+.new-course-btn-bottom{
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    margin: 30px;
+}
+.fa-plus{
+    color: white;
+}
+.delete-icon:hover{
+    cursor: pointer;
+}
+.course-icon{
+    color:#ff5252;
+}
+.course-header-row{
+    margin-top:60px;
+    padding:15px;
+    font-weight: bold;
+}
+
+#dropdownMenuLink,
+#dropdownMenuSortLink{
+    color:black;
+}
+
+#dropdownMenuLink:hover,
+#dropdownMenuSortLink:hover{
+    text-decoration: none;
+}
+
+.course-list-first{
+    margin-top:80px;
+}
+
+.course-list{
+    margin-bottom: 20px;
+    z-index:-999999
+}
+
+.modify-day{
+    color: #36465d;
+    font-weight: bold;
+    padding-top:15px;
+    padding-bottom:15px;
+    font-size: 18px;
+}
+
+.course{
+    padding-top:10px;
+    padding-bottom:10px;
+    border-top:1px solid darkgray;
+    border-right:1px solid darkgray;
+    border-left:1px solid darkgray;
+    background: whitesmoke;
+}
+
+.course:nth-last-child(1) {
+    border-bottom:1px solid gray;
+}
+
+.course-title{
+    color: #36465d;
+    font-weight: bold;
+}
+.course-selection{
+    color: #36465d;
+}
+
+.course:hover{
+    background-color: aliceblue;
+}
+
+.grid-view-link{
+    color: black;
+}
+
+.card{
+    padding:0px !important;
+}
+
+.card-body{
+    background: aliceblue !important;
+}
+.course-title-list{
+    display: inline-block;
+}
+
+.course-title-list:hover{
+    text-decoration: none;
+}
+
+.date-sub-header{
+    color:gray;
+    font-size:12px;
+}
+
+
+/* Media Queries */
+@media screen and (min-width:768px){
+    .custom-form input[type="text"]{
+        width:550px !important;
+    }
+    .course-list-first{
+        margin-top:110px;
+    }
+}
+
+@media screen and (min-width:992px){
+    .custom-form input[type="text"]{
+        width:650px !important;
+    }
+}
+@media screen and (min-width:1200px){
+    .custom-form input[type="text"]{
+        width:750px !important;
+    }
+}

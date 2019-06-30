@@ -1,0 +1,48 @@
+body {
+    background-color: #29465d;
+    color:whitesmoke;
+    padding-top:50px;
+}
+
+.wbdv-hidden{
+    display: none;
+}
+
+.table-wrapper{
+    padding-top:50px;
+    padding-left:20px;
+    padding-right:20px;
+}
+
+.table-wrapper table.table-bordered{
+    margin-top:20px;
+}
+
+.table-wrapper .table-bordered thead th{
+    color: salmon;
+    font-weight: bold;
+}
+
+.table-wrapper .table{
+    background-color: rgba(0,0,0,.13);
+}
+
+.table-wrapper i:hover{
+    cursor: pointer;
+}
+
+.table-wrapper i{
+    font-size:28px;
+}
+
+.wbdv-remove{
+    color:red;
+}
+
+.wbdv-edit{
+    color:beige;
+}
+
+.wbdv-search, .wbdv-create, .wbdv-update{
+    color: deepskyblue;
+}

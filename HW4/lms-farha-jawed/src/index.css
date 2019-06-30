@@ -1,0 +1,20 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+.custom-navbar{
+    background: #36415d;
+    z-index: 10000;
+}
+.navbar-brand{
+    color: whitesmoke !important;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: beige;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: ghostwhite;
+}
+.navbar-light .navbar-nav .active > .nav-link{
+    color: #ff5252;
+}

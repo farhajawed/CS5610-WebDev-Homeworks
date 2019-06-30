@@ -1,0 +1,50 @@
+<div class="row heading-widget mt-5" *ngIf="widgets?.length > 0">
+  <span class="widget-header ml-4">Widgets</span>
+  <div class="col-md-12 mt-2 mb-2 " *ngFor="let widget of widgets">
+    <div [ngSwitch]="widget.widgetType">
+
+      <div *ngSwitchCase="'HEADING'" class="col-md-12">
+        <div [ngSwitch]="widget.size">
+          <h1 *ngSwitchCase="'1'">{{widget.text}}</h1>
+          <h2 *ngSwitchCase="'2'">{{widget.text}}</h2>
+          <h3 *ngSwitchCase="'3'">{{widget.text}}</h3>
+        </div>
+      </div>
+
+
+        <div *ngSwitchCase="'LIST'" class="col-md-12">
+          <ul *ngIf="widget.listType=='ol'">
+            <li
+              *ngFor="let item of widget.options.split('\n')">
+              {{item}}
+            </li>
+          </ul>
+          <ol *ngIf="widget.listType=='ul' || widget.listType===null">
+            <li
+              *ngFor="let item of widget.options.split('\n')">
+              {{item}}
+            </li>
+          </ol>
+        </div>
+
+
+
+        <div *ngSwitchCase="'PARAGRAPH'" class="col-md-12">
+          <p>{{widget.text}}</p>
+        </div>
+
+
+
+        <div *ngSwitchCase="'IMAGE'" class="col-md-12">
+          <img src="{{widget.url}}" class="img-fluid" />
+        </div>
+
+
+
+        <div *ngSwitchCase="'LINK'" class="col-md-12">
+          <a href="{{widget.href}}" class="widget-link">{{widget.text}}</a>
+        </div>
+
+    </div>
+  </div>
+</div>

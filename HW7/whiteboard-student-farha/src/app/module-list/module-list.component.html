@@ -1,0 +1,23 @@
+<div class="container-fluid widget-container body">
+  <div class="row">
+
+    <div class="col-md-3 module-list text-center">
+      <ul class="nav flex-column nav-pills module-list-pill">
+        <a class="nav-link mr-2 mb-3"
+        [ngClass]="{'active':module.id == moduleId}"
+        routerLink="/course/{{courseId}}/module/{{module.id}}/lesson"
+        *ngFor="let module of modules">
+        {{module.title}}
+        </a>
+      </ul>
+    </div>
+
+    <div class="col-md-9 topic-list">
+        <app-topic-pills></app-topic-pills>
+
+        <app-widget-list></app-widget-list>
+
+
+    </div>
+  </div>
+</div>

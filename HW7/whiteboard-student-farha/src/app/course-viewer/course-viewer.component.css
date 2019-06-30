@@ -1,0 +1,24 @@
+.nav-body{
+  background-color: #20405a !important;
+  padding: 10px;
+  padding-left:30px;
+}
+
+.course-container{
+  background-color: #36465d;
+}
+
+.navbar-brand{
+  color:whitesmoke !important;
+}
+
+.navbar{
+  background: #36465e;
+}
+
+.close-editor{
+  font-size: 25px;
+  color: whitesmoke;
+}
+
+

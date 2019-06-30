@@ -1,0 +1,29 @@
+
+.navbar-brand{
+  color:whitesmoke !important;
+}
+
+.navbar{
+  background: #36465e;
+}
+
+.close-editor{
+  font-size: 25px;
+  color: whitesmoke;
+}
+
+.course-editor-nav .nav-item .nav-link{
+  color: beige !important;
+}
+
+.course-editor-nav .nav-item{
+  margin-right: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.course-editor-nav .nav-item.active{
+  background-color:#56bc8a;
+  border-radius: 5px;
+}
+

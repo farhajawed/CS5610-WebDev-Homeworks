@@ -1,0 +1,14 @@
+<div class="row" *ngIf="lessons?.length > 0">
+  <div class="collapse navbar-collapse"
+     id="navbarNavDropdown">
+  <ul class="navbar-nav course-editor-nav">
+    <li class="nav-item" *ngFor="let lesson of lessons" [ngClass]="{'active':lesson.id == lessonId}">
+      <a class="nav-link"
+         routerLink="/course/{{courseId}}/module/{{moduleId}}/lesson/{{lesson.id}}/topic">
+        {{lesson.title}}</a>
+    </li>
+  </ul>
+</div>
+</div>
+
+

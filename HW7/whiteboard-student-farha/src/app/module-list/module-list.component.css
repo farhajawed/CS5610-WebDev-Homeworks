@@ -1,0 +1,29 @@
+.body{
+  padding-top:60px;
+}
+
+
+.module-list{
+  background: rgba(0,0,0,.3);
+}
+
+.topic-list{
+  background-color: gainsboro;
+  padding:30px;
+}
+
+.module-list-pill{
+  margin-top: 25px;
+  margin-bottom: 20px;
+  margin-left:5px;
+}
+
+.module-list-pill .nav-link{
+  background-color: rgba(0,0,0,.3);
+  color:whitesmoke;
+}
+
+.module-list-pill .nav-link.active, .topic-pill-list .nav-link.active{
+  background-color:#56bc8a;
+}
+

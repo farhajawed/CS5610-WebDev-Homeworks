@@ -1,0 +1,34 @@
+
+
+.heading-widget{
+  border:1px solid gray;
+  border-radius: 5px;
+  padding:10px;
+  margin:1px;
+}
+
+.widget-name{
+  font-weight: bold;
+  font-size:22px;
+}
+
+
+.new-widget-btn{
+  margin-right: 30px;
+}
+
+.bg{
+  color: gainsboro;
+}
+
+
+.widget-header{
+  color: #5f7468;
+  font-weight: bold;
+  font-size: 26px;
+
+}
+p {
+
+  word-wrap: break-word;
+}

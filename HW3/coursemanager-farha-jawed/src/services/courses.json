@@ -1,0 +1,185 @@
+[
+    {
+      "id": "123",
+      "title": "CS5610",
+      "modules": [
+        {
+          "id":"1",
+          "title": "Week 1",
+          "lessons": [
+            {
+              "id":"2",
+              "title": "HTML",
+              "topics": [
+                {
+                  "id":"3",
+                  "title": "DOM",
+                  "widgets": []
+                },
+                {
+                  "id":"4",
+                  "title": "Tags",
+                  "widgets": []
+                },
+                {
+                  "id":"5",
+                  "title": "Attributes",
+                  "widgets": []
+                }
+              ]
+            },
+            {
+              "id":"6",
+              "title": "CSS",
+              "topics": [
+                {
+                  "id":"93",
+                  "title": "Advanced",
+                  "widgets": []
+                },
+                {
+                  "id":"64",
+                  "title": "Responsive",
+                  "widgets": []
+                },
+                {
+                  "id":"35",
+                  "title": "Grid",
+                  "widgets": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":"7",
+          "title": "Week 2",
+          "lessons": [
+            {
+              "id":"8",
+              "title": "JavaScript",
+              "topics": [
+                {
+                  "id":"9",
+                  "title": "Basic",
+                   "widgets":[]
+                },
+                {
+                  "id":"10",
+                  "title": "Forms",
+                  "widgets": []
+                },
+                {
+                  "id":"11",
+                  "title": "Objects",
+                  "widgets": []
+                }
+              ]
+            },
+            {
+              "id":"12",
+              "title": "jQuery",
+              "topics": [
+                {
+                  "id":"893",
+                  "title": "Animation",
+                  "widgets": []
+                },
+                {
+                  "id":"564",
+                  "title": "AJAX",
+                  "widgets": []
+                },
+                {
+                  "id":"095",
+                  "title": "Misc",
+                  "widgets": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+        "id": "234",
+        "title": "CS5200",
+        "modules": [
+          {
+            "id":"13",
+            "title": "Week 1",
+            "lessons": [
+              {
+                "id":"14",
+                "title": "Data Definition",
+                "topics": [
+                  {
+                    "id":"15",
+                    "title": "DD1",
+                    "widgets": []
+                  },
+                  {
+                    "id":"16",
+                    "title": "DD2",
+                    "widgets": []
+                  },
+                  {
+                    "id":"17",
+                    "title": "DD3",
+                    "widgets": []
+                  }
+                ]
+              },
+              {
+                "id":"18",
+                "title": "Data Modeling",
+                "topics": [
+                  {
+                    "id":"157",
+                    "title": "DM1",
+                    "widgets": []
+                  },
+                  {
+                    "id":"178876",
+                    "title": "DM2",
+                    "widgets": []
+                  },
+                  {
+                    "id":"1UY7",
+                    "title": "DM3",
+                    "widgets": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id":"19",
+            "title": "Week 2",
+            "lessons": [
+              {
+                "id":"814",
+                "title": "Programming",
+                "topics": [
+                  {
+                    "id":"715",
+                    "title": "JDBC",
+                    "widgets": []
+                  },
+                  {
+                    "id":"616",
+                    "title": "DAO",
+                    "widgets": []
+                  },
+                  {
+                    "id":"517",
+                    "title": "SQL",
+                    "widgets": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+  ]
