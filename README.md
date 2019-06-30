@@ -1,8 +1,8 @@
-<h1>Project: Course Management System</h1>
-<h2><b>Homework1</b>:<h2>
-<hr>
-<h3>User Interface Design:</h3>  
-<h3>Laying out and styling responsive Webpages with HTML, CSS, and Bootstrap</h3>
+# Project: Course Management System
+## <b>Homework1</b>: 
+<hr> 
+### User Interface Design: 
+### Laying out and styling responsive Webpages with HTML, CSS, and Bootstrap 
 Click to view: [Course Management Client](https://course-management-farha-jawed.herokuapp.com/)
 
     
