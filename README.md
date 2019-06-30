@@ -1,8 +1,8 @@
 # Project: Course Management System   
 ## Homework1:       
-User Interface Design:        
-Laying out and styling responsive Webpages with HTML, CSS, and Bootstrap 
-Click to view: [Course Management Client](https://course-management-farha-jawed.herokuapp.com/)
+#### User Interface Design:          
+#### Laying out and styling responsive Webpages with HTML, CSS, and Bootstrap   
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")  Click to view: [Course Management Client](https://course-management-farha-jawed.herokuapp.com/)
 
     
     
